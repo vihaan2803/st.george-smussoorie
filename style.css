@@ -34,3 +34,22 @@ input {
     color: beige;
     font-size: 120%;
 }
+
+#AUDITORIUM {
+    width: 215;
+    height: 200;
+}
+
+#aud. {
+    width: 215;
+    height: 285;
+    border-width: 4;
+    background-color: aquamarine;
+    border-color: black;
+}
+
+kbd {
+    background-color: skyblue;
+    font-family: monospace;
+    text-decoration-style: solid;
+}
